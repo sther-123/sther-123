@@ -9,7 +9,7 @@
 </p>
 
 ### 📊 GitHub Stats
-![내 통계](https://github-readme-stats.vercel.app/api?username=sther-123&show_icons=true&theme=dark)
+![내 통계](https://github-readme-stats.vercel.app/api?username=sther-123&show_icons=true&theme=agent)
 
 <!--
 **sther-123/sther-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
